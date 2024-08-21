@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mir-4-Technical</h1>
+<h1 align="center">Hi 👋, I'm Mir Technical</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Mir-4-Technical**
+- 🔭 I’m currently working on **Mir Technical**
 
 - ⚡ Fun fact **I think I am funny 😀**
 
